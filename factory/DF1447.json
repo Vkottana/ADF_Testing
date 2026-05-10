@@ -1,0 +1,15 @@
+{
+	"name": "DF1447",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16f206da-1804-45cb-a097-be7fab385a39",
+		"tenantId": "994f0dbe-9815-4c48-8010-ee8e8c3db63a"
+	}
+}
